@@ -1,1 +1,1 @@
-config.log 
+console.log ("oi")
